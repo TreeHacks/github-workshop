@@ -1,0 +1,2 @@
+Organizer @ TreeHacks
+Stanford CS
